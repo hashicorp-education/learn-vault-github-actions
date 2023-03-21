@@ -1,3 +1,3 @@
-# Learn Vault ecosystem
+# Learn Vault GitHub Actions
 
-Content to support Vault ecosystem tutorials
+Content to support the [Vault GitHub Actions](https://developer.hashicorp.com/vault/tutorials/app-integration/github-actions) tutoral.
