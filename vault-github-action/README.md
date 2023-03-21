@@ -1,7 +1,7 @@
 # Ruby exampleapp
 
 This content supports the hands on lab for the [Vault GitHub
-Action](https://developer.hashicorp.com/vault/tutorials/app-integration/github-actions) tutorial.
+Actions](https://developer.hashicorp.com/vault/tutorials/app-integration/github-actions) tutorial.
 
 ## Docker image
 
